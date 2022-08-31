@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Murat Can Çotur</h1>
 <h3 align="center">A passionate Back-end Developer from Turkey</h3>
 
-- 🔭 I’m currently working on [E-Ticket](https://github.com/muratcanctr/ecommerce-aspnet-core-mvc-application)
 
 - 🌱 I’m currently learning **ASP.NET CORE MVC**
 
